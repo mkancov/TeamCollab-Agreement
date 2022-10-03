@@ -4,19 +4,19 @@
 
 ## Logistical
 
-*What hours will you be available to communicate
+* What hours will you be available to communicate
 
 - 9:00 - 6:00 PST
 
-*What platform will you use to communicate
+* What platform will you use to communicate
 
 - Slack & Remo
 
-*When will you take breaks
+* When will you take breaks
 
 - Whenever we feel like we need one.
 
-*What is your plan if you start to fall behind
+* What is your plan if you start to fall behind
 
 - Will lengthen work hours from 9-6 to however long it takes to complete our work.
 
@@ -24,31 +24,31 @@
 
 ## Cooperative
 
-*Make a list of each person's strenghts
+* Make a list of each person's strenghts
 
-**Michael
+**Michael**
 
 - Research, JavaScript, CSS, Communication
 
-**Mehtab
+**Mehtab**
 
 - Research, JavaScript, React
 
-*How can you best utilize these strengths in the development of your application
+* How can you best utilize these strengths in the development of your application
 
 - We can assign work based on our strengths and for our weaknesses we can work together and collaborate
 
 * In what areas do each of you want to develop greater strength
 
-**Mehtab
+**Mehtab**
 
 - CSS, back end servers, react
 
-**Michael
+**Michael**
 
 - CSS, React, JavaScript
 
-*Knowing that every person in your team needs to understand the code, how do you plan to approach the day-to-day development
+* Knowing that every person in your team needs to understand the code, how do you plan to approach the day-to-day development
 
 - Go over whatever we plan to work on that day after lunch and when we finish working at 6, do a code review together so we both understand what the other person's written code does.
 
